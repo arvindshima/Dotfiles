@@ -2,7 +2,7 @@ syntax on
 filetype on
 filetype indent on
 set number
-set list
+set list lcs=trail:+,tab:\ \ ,eol:$
 set ruler
 set mouse=a
 set expandtab
