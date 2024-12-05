@@ -265,5 +265,5 @@ if [ -f /etc/zsh_command_not_found ]; then
 fi
 
 # SSLKeyLogFile
-export SSLKEYLOGFILE="/home/arvind/.sslkey.log"
+export SSLKEYLOGFILE="/root/.sslkey.log"
 
