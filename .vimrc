@@ -16,4 +16,4 @@ set ignorecase
 set showmatch
 set wildmenu
 set nocompatible
-colorscheme torte
+colorscheme monokai
